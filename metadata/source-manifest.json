@@ -1,0 +1,19 @@
+{
+  "snapshot_date": "2026-10-27",
+  "scope": "One independent LISP tool; original bytes preserved",
+  "files": [
+    {
+      "path": "lsp/VP2BlkScale.lsp",
+      "bytes": 8234,
+      "sha256": "2a2fa26c2f729e809000127b90e1543e13f9554b0d2314febdfa259529f9b2b4",
+      "encoding": "utf-8",
+      "bom": false,
+      "commands": [
+        {
+          "name": "VP2BLKSCALE",
+          "line": 210
+        }
+      ]
+    }
+  ]
+}

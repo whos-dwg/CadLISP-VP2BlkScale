@@ -1,0 +1,11 @@
+[
+  {
+    "file": "lsp/VP2BlkScale.lsp",
+    "commands": [
+      "VP2BLKSCALE"
+    ],
+    "title": "視埠比例寫入與檢核",
+    "category": "屬性與編號",
+    "manual": "README.md"
+  }
+]
